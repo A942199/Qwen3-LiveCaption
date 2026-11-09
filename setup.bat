@@ -131,7 +131,7 @@ if errorlevel 1 (
 echo.
 echo ============================================================
 echo Setup complete.
-echo Double-click live-caption-ja-duo.pyw to start Japanese captions.
+echo Double-click live-caption-ja.pyw to start Japanese captions.
 echo The first normal launch uses the project's .venv automatically.
 echo ============================================================
 pause
